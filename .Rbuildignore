@@ -8,3 +8,4 @@ inst/visit_*/*
 ^autoci\.yml$
 ^autoci_pkgdown\.yml$
 ^tic\.R$
+^\./tic\.R\.bak$
